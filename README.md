@@ -77,15 +77,8 @@ Sigue estos pasos para desplegar el entorno en tu máquina:
     * Abre los archivos `.sql` en MySQL Workbench y ejecuta las consultas.
 
 ---
-<<<<<<< HEAD
-
 ### 👤 Autor
 **PIERO CORDOVA**
 *Data Engineer & Analyst*
 [\[Enlace a tu LinkedIn\]](https://www.linkedin.com/in/piero-cordova-cerna-5a9886318)
 =======
-### 👤 Autor
-**PIERO CORDOVA**
-*Data Engineer & Analyst*
-[[Enlace a tu LinkedIn]](https://www.linkedin.com/in/piero-cordova-cerna-5a9886318)
->>>>>>> 9030da6aa11286123e78bbdaf931eeb2c3a4a7ec
