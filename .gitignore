@@ -1,0 +1,12 @@
+# Ignorar entorno virtual (IMPORTANTE)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignorar base de datos (Opcional: Si quieres que descarguen tu DB, bórralo de aquí)
+*.db
+*.sqlite3
+
+# Ignorar archivos de sistema
+.DS_Store
